@@ -1,7 +1,6 @@
-# cellcards
-CellCards
+# Cellcards
 
-This is the GitHub site to support our [cellcards.org](https://cellcards.org) project.
+The CellCards GitHub site is aimed to support our [cellcards.org](https://cellcards.org) project.
 
 Please check our CellCards Schema project: 
 https://github.com/CellCards/CellCard-Schema
