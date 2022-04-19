@@ -1,7 +1,9 @@
 # cellcards
 CellCards
 
-This is the GitHub site for our cellcards project.
+This is the GitHub site to support our [cellcards.org](https://cellcards.org) project.
 
-More under development now ...
-Oliver He, University of Michigan
+Please check our CellCards Schema project: 
+https://github.com/CellCards/CellCard-Schema
+
+More information will be added. 
